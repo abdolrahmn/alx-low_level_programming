@@ -1,3 +1,5 @@
+
+
 #include "main.h"
 #include <stdio.h>
 
@@ -47,11 +49,4 @@ void print_buffer(char *b, int size)
 		printf("\n");
 		o += 10;
 	}
-}
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
 }
